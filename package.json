@@ -9,7 +9,7 @@
   "private": true,
   "license": "LICENSED By Hỏi Dân IT",
   "scripts": {
-    "build": "nest build",
+    "build": "npx nest build",
     "format": "prettier --write \"src/**/*.ts\" \"test/**/*.ts\"",
     "start": "node ./dist/main.js",
     "dev": "node ./dist/main.js",
